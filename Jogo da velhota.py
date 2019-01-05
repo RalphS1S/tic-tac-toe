@@ -1,6 +1,6 @@
 '''Acompanhei a desenvolvimento do jogo através de um canal chamado Smart School (https://www.youtube.com/channel/UC-EZ4zICTyuJWeldLsGKhpA/videos), 
 ao mesmo tempo em que fazia a mão para evitar o famigerado copia e cola, pode 
-observar que ao final de uma jogada, caso queria continuar, o placar será apresentado corretamente vencedor ou empate﻿'''﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+observar que ao final de uma jogada, caso queria continuar, o placar será apresentado corretamente com vencedor ou empate﻿'''﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
 
 import random, os, time
 
